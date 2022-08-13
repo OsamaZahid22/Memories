@@ -1,0 +1,17 @@
+Dependecies
+Client side:
+npx create-react-app ./
+npm install axios moment react-file-base 64
+ redux redux-thunk
+npm install @material-ui/core or yarn install @material-ui/core
+
+npm install react-redux
+install jwt-decode react-google-login or yarn add jwt-decode react-google-login //for authentication.
+npm install react-router-dom
+
+
+Server Side:
+npx init -y
+npm install body-parser cors express mongoo
+se nodemon
+npm install bcrypt jsonwebtoken
